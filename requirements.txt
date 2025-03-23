@@ -1,0 +1,9 @@
+tensorflow-gpu
+numpy
+scikit-learn
+keras
+fastprogress==0.2.3
+seqeval==0.0.12
+Flask==1.1.2
+Flask-Cors==3.0.10
+nltk==3.5
